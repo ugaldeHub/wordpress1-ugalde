@@ -1,0 +1,2 @@
+2021-06-15T15:33:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-coupons-v2-controller.php on line 543
+

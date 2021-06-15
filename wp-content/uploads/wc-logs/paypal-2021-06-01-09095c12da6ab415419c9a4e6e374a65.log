@@ -1,0 +1,45 @@
+2021-06-01T03:55:25+00:00 INFO Generating payment form for order 63. Notify URL: http://localhost/wordpress1/wc-api/WC_Gateway_Paypal/
+2021-06-01T03:55:25+00:00 INFO PayPal Request Args for order 63: Array
+(
+    [cmd] => _cart
+    [business] => jeffreyugalde02@gmail.com
+    [no_note] => 1
+    [currency_code] => PHP
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress1/checkout/order-received/63/?key=wc_order_hX3rfrh8l7bah&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress1/cart/?cancel_order=true&order=wc_order_hX3rfrh8l7bah&order_id=63&redirect&_wpnonce=29b21b8405
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-63
+    [custom] => {"order_id":63,"order_key":"wc_order_hX3rfrh8l7bah"}
+    [notify_url] => http://localhost/wordpress1/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Wetlook P(1/2)
+    [quantity_1] => 1
+    [amount_1] => 130
+    [item_number_1] => 
+    [item_name_2] => Super White Premium(1kilo)
+    [quantity_2] => 2
+    [amount_2] => 250
+    [item_number_2] => 
+    [item_name_3] => Super White P(1/2)
+    [quantity_3] => 1
+    [amount_3] => 160
+    [item_number_3] => 
+    [bn] => WooThemes_Cart
+)
+
